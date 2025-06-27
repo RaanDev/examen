@@ -1,0 +1,74 @@
+.q {
+color: rgb(137, 0, 0);
+
+}
+.w {
+text-align: center;
+background-color: rgb(7, 255, 255);
+border-radius: 15px;
+border: 3px solid red;
+
+}
+h3 {
+color: darkgreen;
+}
+.a {
+color: darkgreen;  
+background-color: yellow;  
+text-align: center;
+}
+.n {
+background-color: yellow;
+color: darkgreen;
+text-align: center;
+}
+.g {
+color: darkgreen;
+font-size: 20px;
+}
+textarea {
+width: 1300px
+}
+div {
+border-radius: 10px;
+background-color: black;
+overflow: hidden;
+width: 1500px;
+}
+div, iframe {
+text-align: center;
+}
+.o {
+color: darkgreen;
+font-size: 20px;
+}
+.j {
+width: 200px;
+background-color: rgb(83, 83, 180);
+}
+.k {
+background-color: yellow;
+text-align: center;
+color: darkgreen;
+}
+table {
+border: 1px solid rgb(255, 255, 255);
+border-collapse: collapse;
+width: 90%;
+}
+th,tr {
+border: 1px solid rgb(255, 255, 255);
+color: white;
+}
+.z {
+ background-color: red;
+}
+.x {
+background-color: rgb(0, 0, 0);
+}
+.b {
+background-color: darkgreen;
+}
+.m {
+background-color: blue;
+}
